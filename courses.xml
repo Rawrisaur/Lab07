@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE courses SYSTEM "timetables.dtd">
+<courses>
+	<course code="Comp4560">
+		<booking time="8:30" day="M" room="SE12-320" instructor="Brenda Fine" type="Lab" />
+		<booking time="12:30" day="F" room="SW1-1021" instructor="Brenda Fine" type="Lecture" />
+	</course>
+	<course code="Comp4711">
+		<booking time="12:30" day="T" room="SE12-320" instructor="Jim Parry" type="Lab" />
+		<booking time="14:30" day="T" room="SW5-1840" instructor="Jim Parry" type="Lecture" />
+	</course>
+	<course code="Comp4945">
+		<booking time="13:30" day="T" room="SE12-319" instructor="Tejinder Randahwa" type="Lecture/Lab" />
+		<booking time="9:30" day="W" room="SE12-319" instructor="Tejinder Randahwa" type="Lecture/Lab" />
+		<booking time="13:30" day="R" room="SE12-319" instructor="Tejinder Randahwa" type="Lecture/Lab" />
+	</course>
+	<course code="Comp4941">
+		<booking time="10:30" day="W" room="SE12-319" instructor="Tejinder Randahwa" type="Lecture/Lab" />
+		<booking time="13:30" day="F" room="SE12-319" instructor="Tejinder Randahwa" type="Lecture/Lab" />
+	</course>
+	<course code="Comp4735">
+		<booking time="11:30" day="M" room="SW5-1840" instructor="Mirela Gutica" type="Lecture" />
+		<booking time="15::30" day="M" room="SE12-322" instructor="Matt Linder" type="Lab" />
+		<booking time="11:30"  day="R" room="SW3-1710" instructor="Mirela Gutica" type="Lecture" />
+		<booking time="13:30" day="W" room="SW1-1205" instructor="Mirela Gutica" type="Lecture" />
+	</course>
+	<course code="Blaw3600">
+		<booking time="9:30" day="R" room="SW3-3620" instructor="Catherine Ryan" type="Lecture" />
+		<booking time="8:30" day="F" room="SW5-1850" instructor="Catherine Ryan" type="Lecture" />
+	</course>
+</courses>
